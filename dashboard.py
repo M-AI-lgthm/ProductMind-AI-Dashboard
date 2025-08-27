@@ -744,3 +744,9 @@ print("")
 print("✅ All syntax errors fixed!")
 print("✅ Complete Jira task integration included!")
 print("✅ Ready for production use!")
+
+# Try this first
+launch_dashboard()
+
+# Or if you need explicit ngrok setup
+launch_dashboard_with_ngrok()
