@@ -299,16 +299,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/productmind-ai-dashboard/discussions)
 - **Email**: productmind-support@yourdomain.com
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/productmind-ai-dashboard&type=Date)](https://star-history.com/#yourusername/productmind-ai-dashboard&Date)
-
----
-
-<div align="center">
-
 **Built with ❤️ for the Product Management Community**
 
 [🌟 Star this repo](https://github.com/yourusername/productmind-ai-dashboard) • [🐛 Report Bug](https://github.com/yourusername/productmind-ai-dashboard/issues) • [💡 Request Feature](https://github.com/yourusername/productmind-ai-dashboard/issues)
+
+## 🧠 The LLM Brain Architecture:
+
+Core LLM Engine: Anthropic's Claude AI
+Agent Intelligence: Each agent uses LLM reasoning for their specialized tasks
+Natural Language Processing: LLM handles user inputs and generates contextual responses
+Domain Expertise: LLM provides product management, market research, and task analysis knowledge
+
+Technical Flow:
+User Input → MCP Server → Agent (LLM-Powered) → Claude AI Brain → Intelligent Response
 
 </div>
